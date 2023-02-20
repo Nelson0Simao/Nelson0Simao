@@ -2,8 +2,12 @@
    
 # Nelson Simão
 
-<p>Hello, I'm a programmer with JavaScript experience in both backend and frontend development. I specialize in Node.js, Express and MongoDB for the backend and React, HTML and CSS for the frontend. I'm always looking to improve my skills and learn new technologies. I am available for work opportunities and would love to discuss how I can contribute to your next project. Thanks for the visit!
+<p>Hello, I'm a programmer with JavaScript experience in both backend and frontend development. I specialize in Node.js, Express and MongoDB for the backend and React, HTML and CSS for the frontend. I'm always looking to improve my skills and learn new technologies.  
 </p>
+
+I am available for work opportunities and would love to discuss how I can contribute to your next project.
+
+Thanks for the visit!
 
 <div align="left" dir="auto">
   <a href="https://www.linkedin.com/feed/" rel="nofollow">

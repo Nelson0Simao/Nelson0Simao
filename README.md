@@ -1,14 +1,9 @@
 
    
-# Your username
+# Nelson Simão
 
-## About me
-
-I'm a JavaScript backend programmer with experience in various technologies and frameworks.
-
-
-
-Feel free to explore my projects and code here on GitHub!
+<p>Hello, I'm a programmer with JavaScript experience in both backend and frontend development. I specialize in Node.js, Express and MongoDB for the backend and React, HTML and CSS for the frontend. I'm always looking to improve my skills and learn new technologies. I am available for work opportunities and would love to discuss how I can contribute to your next project. Thanks for the visit!
+</p>
 
 <div align="left" dir="auto">
   <a href="https://www.linkedin.com/feed/" rel="nofollow">

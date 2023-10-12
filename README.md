@@ -2,9 +2,7 @@
    
 # Nelson Simão
 
-<p>Hello, I'm a programmer with JavaScript experience in both backend and frontend development. I specialize in Node.js, Express and MongoDB for the backend and React, HTML and CSS for the frontend. I'm always looking to improve my skills and learn new technologies.  
-</p>
-
+<p>I am an experienced C developer, dominating low level programming and code optimization;Node.js is my choice to develop efficient web servers and APIs;I am exploring Rust to create safe and high performance system software;Always looking for challenges that allow me to improve my skills in all these languages.</p>
 I am available for work opportunities and would love to discuss how I can contribute to your next project.
 
 Thanks for the visit!
